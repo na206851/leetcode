@@ -1,7 +1,3 @@
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
-
 public class ThreeConsecutiveOdds_1550 {
     public boolean threeConsecutiveOdds(int[] arr) {
         int count = 0;
